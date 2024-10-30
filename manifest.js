@@ -29,7 +29,7 @@ export default [
         forUseBy: "clubbers",
       },
       {
-        name: "Stickers",
+        name: "Soda",
         description: "Get a box of stickers for your next meeting or event",
         icon: "sticker",
         external: false,
